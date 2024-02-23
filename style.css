@@ -1,12 +1,21 @@
-#form{
-border: solid: 2px;
-
+#forms{
+border: solid 2px;
+width: 30%;
+padding:12px 16px;
+margin: 0 auto;
 }
 
 .input{
-
+padding:13px 16px;
+width:30%;
+border-radius: 5px;
+border:solid 1px;
 }
 
 button{
-
+    padding: 8px 240px;
+    border-radius: 5px;
+    color:beige;
+    background-color: aqua;
+    border:none;
 }
